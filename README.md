@@ -1,5 +1,4 @@
 ## Guess the Number Game ##
-
 Welcome to the **Guess the Number** game! This is a simple console-based game where the player attempts to guess a randomly generated number within a specified range.
 
 ## How to Play
